@@ -1,0 +1,42 @@
+{
+"basics":{
+  "img":"images/mickey.jpg",
+  "name":"Priyanka",
+  "job":"web-developer",
+  "email":"priyankaraju16@gmail.com"
+},
+"career":{
+  "info":"i want to seek a better position where i can explore my thoughts and skills in web-developing"
+},
+"educationaldetails":[
+{
+  "sno":1,
+  "degree":"Btech",
+  "institute":"MITS",
+  "yop":"2021"
+},
+{
+  "sno":2,
+  "degree":"Inter",
+  "institute":"SSJ",
+  "yop":"2017"
+},
+{
+  "sno":1,
+  "degree":"SSC",
+  "institute":"BHASHYAM",
+  "yop":"2015"
+}
+],
+"skills":[
+  {
+    "skills":"c"
+  },
+  {
+    "skills":"c++"
+  },
+  {
+  "skills":"java"
+  }
+]
+}
